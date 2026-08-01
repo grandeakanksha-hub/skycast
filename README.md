@@ -32,7 +32,7 @@ SkyCast is a modern and responsive weather forecast web application built using 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/skycast-weather-app.git
+git clone https://github.com/grandeakanksha-hub/skycast-weather-app.git
 ```
 
 2. Navigate to the project folder
