@@ -4,7 +4,7 @@ SkyCast is a modern and responsive weather forecast web application built using 
 
 ## 🚀 Live Demo
 
-[🔗](https://skycast-akanksha.bolt.host)
+https://skycast-akanksha.bolt.host
 
 ## ✨ Features
 
