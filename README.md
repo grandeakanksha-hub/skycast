@@ -21,11 +21,7 @@ https://skycast-akanksha.bolt.host
 
 ## 🛠️ Tech Stack
 
-- React
-- TypeScript
-- Vite
-- Open-Meteo API
-- CSS / Tailwind CSS (if applicable)
+AI Tools: Bolt.new, ChatGPT
 
 ## ⚙️ Installation
 
